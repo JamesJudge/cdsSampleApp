@@ -1,0 +1,7 @@
+# app/config/parameters.yml
+parameters:
+    database_driver:    pdo_mssql
+    database_host:      localhost
+    database_name:      CDSSampleApp_Main
+    database_user:      SA
+    database_password:  Fuckyou666!
